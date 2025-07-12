@@ -15,7 +15,7 @@ spam-detector/
 ├── resources/
 │   └── asset/
 │       └── SMSSpamCollection.tsv ✅
-├── spam_classifier.py
+├── main.py
 ├── requirements.txt
 ├── README.md
 ```
