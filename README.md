@@ -37,5 +37,5 @@ pip install -r requirements.txt
 
 Run
 ```
-python spam_classifier.py
+python main.py
 ```
